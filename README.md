@@ -1,6 +1,9 @@
-![header](https://Welcome-to-Seohyeon's-Github.vercel.app/api?type=waving&color=098EFA&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=77BFF9&height=110&section=header)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Seohyeon's+Github;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=40&duration=4000&pause=3&color=77BFF9&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Seohyeon's+Github!;)](https://git.io/typing-svg)
+
+---
+
 
 <div align=center><h3>✨ TECH STACK ✨</h3></div>
 <div align=center> 
@@ -26,7 +29,7 @@
 <div align="center">
   <a href="mailto:2seohxn@gmail.com">
     <img
-      src="https://img.shields.io/badge/2seohxn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
   <a href="
 </div>
