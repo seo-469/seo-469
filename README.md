@@ -1,4 +1,4 @@
-##[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Seohyeon's+Github;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Seohyeon's+Github;)](https://git.io/typing-svg)
 
 <div align=center><h3>✨ TECH STACK ✨</h3></div>
 <div align=center> 
